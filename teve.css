@@ -35,4 +35,6 @@ input{
 	width:30%;
 }
 
-
+#response{
+	display: inline;
+}
